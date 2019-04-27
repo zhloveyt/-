@@ -1,0 +1,21 @@
+﻿生成启动时间为 2019/4/27 17:39:34。
+     1>项目“C:\Users\DELL\Desktop\C语言\game4-15\game4-15\game4-15.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\game4-15.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\360安全浏览器下载\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt game.c
+         game.c
+       Link:
+         D:\360安全浏览器下载\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DELL\Desktop\C语言\game4-15\Debug\game4-15.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\game4-15.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\DELL\Desktop\C语言\game4-15\Debug\game4-15.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DELL\Desktop\C语言\game4-15\Debug\game4-15.lib" /MACHINE:X86 Debug\game.obj
+         Debug\test.obj
+         game4-15.vcxproj -> C:\Users\DELL\Desktop\C语言\game4-15\Debug\game4-15.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\DELL\Desktop\C语言\game4-15\Debug\game4-15.exe;#1" /manifest "Debug\game4-15.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\game4-15.unsuccessfulbuild”。
+         正在对“Debug\game4-15.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\DELL\Desktop\C语言\game4-15\game4-15\game4-15.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.26
